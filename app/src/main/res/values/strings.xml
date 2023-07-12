@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FlowSummator</string>
+    <string name="launch">Launch</string>
+    <string name="result">Result: %s</string>
 </resources>
